@@ -27,12 +27,6 @@ elixir.config.imagePath = 'images';
 
 //Change app.less to name of less file.
 elixir(function (mix) {
-    mix.imagemin('', 'public/images', {
-        optimizationLevel: 3,
-        progressive: true,
-        interlaced: true
-    });
-
     //Configuração para o SASS e CSS normal
     mix.sass(['resources/assets/sass/*.scss'], pathCss);
 
@@ -59,6 +53,12 @@ elixir(function (mix) {
     //Versionamento do JS e CSS para o browser na cachear em produção
     if (inProduction) {
         mix.version([pathCss, pathJs]);
+		
+		mix.imagemin('', 'public/images', {
+			optimizationLevel: 3,
+			progressive: true,
+			interlaced: true
+		});
     }
 
     //Configuração do BrowserSync
