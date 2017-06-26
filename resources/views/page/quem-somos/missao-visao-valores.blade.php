@@ -6,8 +6,8 @@
         <div class="fh5co-cover fh5co-cover_2 text-center" data-stellar-background-ratio="0.5"
              style="background-image: url({{asset('images/missao-valores.jpg')}});">
             <div class="desc animate-box">
-                <h2>MISSÃO E VALORES</h2>
-                <span><i>Conheça nossos pilares</i></span>
+                @lang('general.missao_sec1')
+                <span><i>@lang('general.missao_sec2')</i></span>
             </div>
         </div>
     </div>

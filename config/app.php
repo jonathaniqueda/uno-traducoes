@@ -65,7 +65,7 @@ return [
     |
     */
 
-    'locale' => 'pt_br',
+    'locale' => 'pt-br',
 
     /*
     |--------------------------------------------------------------------------
@@ -78,7 +78,7 @@ return [
     |
     */
 
-    'fallback_locale' => 'pt_br',
+    'fallback_locale' => 'pt-br',
 
     /*
     |--------------------------------------------------------------------------
@@ -159,9 +159,8 @@ return [
         /*
          * Custom packages
          */
-        App\Providers\SaveLogServiceProvider::class,
-        App\Providers\ApiCenterServiceProvider::class,
         Bogardo\Mailgun\MailgunServiceProvider::class,
+        Mcamara\LaravelLocalization\LaravelLocalizationServiceProvider::class,
 
     ],
 
@@ -213,9 +212,8 @@ return [
          * Custom packages
          */
 
-        'SaveLog' => App\Facades\SaveLog::class,
-        'ApiCenter' => App\Facades\ApiCenter::class,
         'Mailgun' => Bogardo\Mailgun\Facades\Mailgun::class,
+        'LaravelLocalization' => Mcamara\LaravelLocalization\Facades\LaravelLocalization::class,
     ],
 
 ];

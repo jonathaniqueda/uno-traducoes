@@ -4,16 +4,16 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-                <h3>Visão futura</h3>
+                @lang('general.visao_sec1')
             </div>
         </div>
     </div>
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 animate-box">
-                <h3>O que queremos nos tornar...</h3>
+                @lang('general.visao_sec2')
                 <p>
-                    Ser reconhecida como a referência no mercado de traduções e interpretações.
+                    @lang('general.visao_sec3')
                 </p>
             </div>
         </div>

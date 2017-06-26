@@ -11,7 +11,8 @@
     "php": ">=5.5.9",
     "laravel/framework": "5.2.*",
     "guzzlehttp/guzzle": "~5.0",
-    "bogardo/mailgun": "4.0.*"
+    "bogardo/mailgun": "4.0.*",
+    "mcamara/laravel-localization": "^1.2"
   },
   "require-dev": {
     "fzaninotto/faker": "~1.4",

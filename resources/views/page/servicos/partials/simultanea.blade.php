@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-                <h3>Interpretação Simultânea</h3>
+                @lang('general.sim_sec1')
             </div>
         </div>
     </div>
@@ -14,20 +14,15 @@
                      style="margin: 0 auto;">
 
                 <p style="margin-top: 50px;">
-                    Feita por intérpretes profissionais fluentes em seus idiomas de trabalho e treinados nas técnicas de
-                    tradução, interpretação e comunicação.
+                    @lang('general.sim_sec2')
                 </p>
 
                 <p>
-                    A <strong>UNO Traduções</strong> dispõe de profissionais e todo o equipamento necessário.
+                    @lang('general.sim_sec3')
                 </p>
 
                 <ul>
-                    <li>Cabine Acústica</li>
-                    <li>Transmissores</li>
-                    <li>Microfones</li>
-                    <li>Equipamentos de Sonorização</li>
-                    <li>Receptores sem fio VHF ou infravermelho</li>
+                    @lang('general.sim_sec4')
                 </ul>
 
             </div>
