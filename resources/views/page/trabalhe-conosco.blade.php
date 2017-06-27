@@ -6,8 +6,8 @@
         <div class="fh5co-cover fh5co-cover_2 text-center" data-stellar-background-ratio="0.5"
              style="background-image: url({{asset('images/trabalhe-com-a-uno-traducoes.jpg')}});">
             <div class="desc animate-box">
-                <h2>Trabalhe Conosco</h2>
-                <span>Faça parte do time <strong>UNO Traduções</strong></span>
+                @lang('general.trab_sec1')
+                @lang('general.trab_sec2')
             </div>
         </div>
     </div>
@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-                    <h3>Junte-se a nós</h3>
+                    @lang('general.trab_sec3')
                 </div>
             </div>
         </div>
@@ -26,15 +26,14 @@
                 <div class="col-md-8 col-md-offset-2 animate-box">
                     <img src="{{asset('images/equipe.jpeg')}}" class="img-responsive" style="margin: 0 auto;">
 
-                    <h3 style="margin-top: 50px;">Envie seu Curriculum para rh@unotraducoes.com.br</h3>
+                    <h3 style="margin-top: 50px;">@lang('general.trab_sec4')</h3>
 
                     <p>
-                        Buscamos profissionais para tradução ou revisão de textos e Profissionais de DTP.
+                        @lang('general.trab_sec5')
                     </p>
 
                     <p>
-                        Se você é especializado na linguagem técnica e tem conhecimento das principais ferramentas de
-                        memória de tradução do mercado venha trabalhar conosco.
+                        @lang('general.trab_sec6')
                     </p>
                 </div>
             </div>

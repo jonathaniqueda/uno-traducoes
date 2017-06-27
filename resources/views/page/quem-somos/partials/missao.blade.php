@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-                <h3>A nossa missão</h3>
+                @lang('general.mis_sec1')
             </div>
         </div>
     </div>
@@ -14,9 +14,7 @@
                 <img src="{{asset('images/missao-uno-traducao.jpg')}}" class="img-responsive"
                      style="margin: 0 auto;">
                 <p style="margin-top: 50px">
-                    Prestar serviços de assessoria linguística com excelência, através da gestão da qualidade,
-                    aprimorando todos os processos, processamento de pedidos, possibilitando um atendimento rápido e
-                    eficiente, garantindo a excelência em nossas relações de negócios.
+                    @lang('general.mis_sec2')
                 </p>
                 <p style="margin-top: 50px">
                     Ser reconhecida como a referência no mercado de traduções e interpretações.

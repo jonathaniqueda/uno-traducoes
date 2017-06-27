@@ -26,9 +26,8 @@
     22 => 'App\\Providers\\AuthServiceProvider',
     23 => 'App\\Providers\\EventServiceProvider',
     24 => 'App\\Providers\\RouteServiceProvider',
-    25 => 'App\\Providers\\SaveLogServiceProvider',
-    26 => 'App\\Providers\\ApiCenterServiceProvider',
-    27 => 'Bogardo\\Mailgun\\MailgunServiceProvider',
+    25 => 'Bogardo\\Mailgun\\MailgunServiceProvider',
+    26 => 'Mcamara\\LaravelLocalization\\LaravelLocalizationServiceProvider',
   ),
   'eager' => 
   array (
@@ -45,9 +44,8 @@
     10 => 'App\\Providers\\AuthServiceProvider',
     11 => 'App\\Providers\\EventServiceProvider',
     12 => 'App\\Providers\\RouteServiceProvider',
-    13 => 'App\\Providers\\SaveLogServiceProvider',
-    14 => 'App\\Providers\\ApiCenterServiceProvider',
-    15 => 'Bogardo\\Mailgun\\MailgunServiceProvider',
+    13 => 'Bogardo\\Mailgun\\MailgunServiceProvider',
+    14 => 'Mcamara\\LaravelLocalization\\LaravelLocalizationServiceProvider',
   ),
   'deferred' => 
   array (

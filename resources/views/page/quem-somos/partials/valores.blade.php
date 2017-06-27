@@ -5,21 +5,16 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-                <h3>Nossos valores</h3>
+                @lang('general.val_sec1')
             </div>
         </div>
     </div>
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 animate-box">
-                <h3>Feita na medida pra você...</h3>
+                @lang ('general.val_sec2')
                 <ul>
-                    <li> Excelência no atendimento ao cliente</li>
-                    <li> Sigilo absoluto de todas as informações gerenciadas</li>
-                    <li> Qualidade</li>
-                    <li> Agilidade operacional</li>
-                    <li> Postura ética</li>
-                    <li> Treinamento e Desenvolvimento de profissionais qualificados</li>
+                    @lang('general.val_sec3')
                 </ul>
             </div>
         </div>

@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-                <h3>Diagramação ou desktop publishing</h3>
+                @lang('general.dia_sec1')
             </div>
         </div>
     </div>
@@ -11,8 +11,7 @@
         <div class="row">
             <div class="col-md-8 col-md-offset-2 animate-box">
                 <p>
-                    Elaborada por profissionais que utilizarão diversos programas de edição para tratamento de textos
-                    estáticos ou figuras.
+                    @lang('general.dia_sec2')
                 </p>
             </div>
         </div>

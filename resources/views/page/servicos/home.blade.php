@@ -6,8 +6,8 @@
         <div class="fh5co-cover fh5co-cover_2 text-center" data-stellar-background-ratio="0.5"
              style="background-image: url({{asset('images/bandeira-americana.jpg')}});">
             <div class="desc animate-box">
-                <h2>Serviços</h2>
-                <span><i>"Somos especialistas em traduções"</i></span>
+                @lang('general.home_sec1')
+                <span><i>@lang('general.home_sec2')</i></span>
             </div>
         </div>
     </div>
@@ -17,22 +17,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-                    <h3>Nossos Serviços</h3>
+                    @lang('general.home_sec3')
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 animate-box">
-                    <h3>Sua solução está aqui...</h3>
-                    <p>
-                        Somos especialistas em traduções nas áreas de Petróleo e Gás, Construção Naval, Jurídica,
-                        Marketing, Financeira, Ambiental, dentre outras:
-                    </p>
+                    @lang('general.home_sec4')
+                    @lang('general.home_sec5')
 
-                    <p>Destacamos nosso expertise na tradução de Manuais, Relatórios e Catálogos Técnicos, Contratos,
-                        Sentenças, Balanços Patrimoniais, EIA-RIMAS, etc...
-                    </p>
+                    @lang('general.home_sec6')
                 </div>
             </div>
         </div>
