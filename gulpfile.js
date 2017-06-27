@@ -53,12 +53,12 @@ elixir(function (mix) {
     //Versionamento do JS e CSS para o browser na cachear em produção
     if (inProduction) {
         mix.version([pathCss, pathJs]);
-		
-		mix.imagemin('', 'public/images', {
-			optimizationLevel: 3,
-			progressive: true,
-			interlaced: true
-		});
+
+        mix.imagemin('', 'public/images', {
+            optimizationLevel: 3,
+            progressive: true,
+            interlaced: true
+        });
     }
 
     //Configuração do BrowserSync
