@@ -17,7 +17,7 @@
                     @lang('general.mis_sec2')
                 </p>
                 <p style="margin-top: 50px">
-                    Ser reconhecida como a referência no mercado de traduções e interpretações.
+                    @lang('general.mis_sec3')
                 </p>
             </div>
         </div>

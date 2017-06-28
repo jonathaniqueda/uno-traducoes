@@ -125,7 +125,7 @@ return [
     'mis_sec2' => 'Prestar servicios de asesoría lingüística con excelencia a través de la gestión de calidad, 
      mejorando todos los procesos, procesamiento de pedidos, posibilitando una atención rápida y eficiente, garantizando
                 la excelencia en nuestras relaciones de negocios.',
-    'mis_sec3' => '"Ser reconocida como la referencia en el mercado de las traducciones e interpretaciones"',
+    'mis_sec3' => 'Ser reconocida como la referencia en el mercado de las traducciones e interpretaciones',
 
     //fim missao.blade
     //valores.blade
