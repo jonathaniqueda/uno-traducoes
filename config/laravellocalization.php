@@ -2,11 +2,11 @@
 
 return [
     'supportedLocales' => [
+        'pt-BR' => ['name' => 'Português', 'script' => 'Latn', 'native' => 'português do Brasil', 'regional' => 'pt-BR'],
         'en' => ['name' => 'English', 'script' => 'Latn', 'native' => 'English', 'regional' => 'en'],
-        'pt-br' => ['name' => 'Português', 'script' => 'Latn', 'native' => 'português do Brasil', 'regional' => 'pt-br'],
         'es' => ['name' => 'Español', 'script' => 'Latn', 'native' => 'español', 'regional' => 'es'],
     ],
     'useAcceptLanguageHeader' => true,
     'hideDefaultLocaleInURL' => false,
-    'localesOrder' => ['pt-br', 'en', 'es'],
+    'localesOrder' => ['pt-BR', 'en', 'es'],
 ];

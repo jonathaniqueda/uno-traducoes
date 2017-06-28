@@ -42,6 +42,13 @@ elixir(function (mix) {
         'resources/assets/js/superfish.js',
         'resources/assets/js/main.js',
         'resources/assets/js/respond.min.js',
+        'resources/assets/js/jquery.i18n.js',
+        'resources/assets/js/jquery.i18n.emitter.js',
+        'resources/assets/js/jquery.i18n.emitter.bidi.js',
+        'resources/assets/js/jquery.i18n.fallbacks.js',
+        'resources/assets/js/jquery.i18n.language.js',
+        'resources/assets/js/jquery.i18n.messagestore.js',
+        'resources/assets/js/jquery.i18n.parser.js',
         'resources/assets/js/ajax_internal.js',
         'resources/assets/js/ajax_external.js',
         'resources/assets/js/functions.js'
@@ -53,19 +60,5 @@ elixir(function (mix) {
     //Versionamento do JS e CSS para o browser na cachear em produção
     if (inProduction) {
         mix.version([pathCss, pathJs]);
-
-        mix.imagemin('', 'public/images', {
-            optimizationLevel: 3,
-            progressive: true,
-            interlaced: true
-        });
     }
-
-    //Configuração do BrowserSync
-    mix.browserSync({
-        proxy: APP_URL,
-        port: '3000',
-        injectChanges: true,
-        files: ['resources/views/**', 'public/**', '!public/**.map', '!public/build/**']
-    });
 });

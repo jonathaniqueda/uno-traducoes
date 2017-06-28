@@ -18,7 +18,7 @@ return [
     'work_sec4' => '<h3>Technical Translation</h3>
                         <p>Translations of literary texts, scientific texts, technical manuals, etc...</p>',
 
-    'work_sec5' => '<h3>Certified Translation</h3>
+    'work_sec5' => '<h3>Sworn Translation</h3>
                         <p>Translations certified by the State Trade Board</p>',
     
     'work_sec6' => '<h3>Simultaneous Interpreting</h3>
@@ -43,7 +43,7 @@ return [
     'select_serv1' => 'Select a service:',
     'select_serv2' => 'Diagramming or desktop publishing',
     'select_serv3' => 'Technical Translation',
-    'select_serv4' => 'Certified Translation',
+    'select_serv4' => 'Sworn Translation',
     'select_serv5' => 'Simultaneous Interpreting',
     'select_serv6' => 'Consecutive Interpreting',
     'select_serv7' => 'Audio and Video Transcription',
@@ -149,7 +149,7 @@ return [
     //fim tecnica.blade
     //juramentada.blade
 
-    'jura_sec1' => '<h3>CERTIFIED TRANSLATION</h3>',
+    'jura_sec1' => '<h3>SWORN TRANSLATION</h3>',
     'jura_sec2' => 'This type of translation is prepared by a Sworn Translator, registered in the State Trade Board in 
                     his/her state of  residence, being the document personal and non-transferable. The sworn translation
                      has public faith and it’s valid throughout the national territory and it officially reflects the 
@@ -205,7 +205,7 @@ return [
     'head_sec5' => 'Values',
     'head_sec6' => 'Services',
     'sub_menu1' => 'Technical Translation',
-    'sub_menu2' => 'Certified Translation',
+    'sub_menu2' => 'Sworn Translation',
     'sub_menu3' => 'Simultaneous Interpreting',
     'sub_menu4' => 'Consecutive Interpreting',
     'sub_menu5' => 'Audio and video </br>Transcription',

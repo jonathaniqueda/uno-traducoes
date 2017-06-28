@@ -10,18 +10,41 @@
                 <!-- START #fh5co-menu-wrap -->
                 <nav id="fh5co-menu-wrap" role="navigation">
                     <ul class="sf-menu" id="fh5co-primary-menu">
-                        <li class="active">
-                            <a href="{{route('index')}}">@lang('general.head_sec1')</a>
-                        </li>
 
                         <li>
-                            <a href="#" class="fh5co-sub-ddown">{{ LaravelLocalization::getCurrentLocaleName() }}</a>
+                            <a href="#" class="fh5co-sub-ddown">
+                                <img class="flag"
+                                     src="{{asset('images/' . \LaravelLocalization::getCurrentLocale() . '.svg')}}"
+                                     style="width: 30px; height: 30px;">
+                            </a>
                             <ul class="fh5co-sub-menu">
-                                <li><a href="/pt-br">Português do Brasil</a></li>
-                                <li><a href="/es">Español</a></li>
-                                <li><a href="/en">English</a></li>
+                                <li>
+                                    <a href="/pt-BR">
+                                        <img class="flag" src="{{asset('images/pt-BR.svg')}}"
+                                             alt="Português do Brasil" style="width: 30px; height: 30px;">
+                                        - Português do Brasil
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/es">
+                                        <img class="flag" src="{{asset('images/es.svg')}}"
+                                             alt="United States of America" style="width: 30px; height: 30px;">
+                                        - Español
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/en">
+                                        <img class="flag" src="{{asset('images/en.svg')}}"
+                                             alt="Español" style="width: 30px; height: 30px;">
+                                        - English
+                                    </a>
+                                </li>
                                 </li>
                             </ul>
+                        </li>
+
+                        <li class="active">
+                            <a href="{{route('index')}}">@lang('general.head_sec1')</a>
                         </li>
 
                         <li>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{\LaravelLocalization::getCurrentLocale()}}">
 
 <head>
     <meta name="csrf_token" content="{{ csrf_token() }}">

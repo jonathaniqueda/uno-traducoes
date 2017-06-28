@@ -375,11 +375,10 @@
                         <tr>
                             <td class="content-block">
                                 <span class="apple-link">
-                                    <p><strong>UNO Traduções</strong> <br/>
-                                        Condomínio Rio2 <br/>
-                        Rua Alfredo Ceschiatti, nº 155 - Bl. 01 - Conj. 704 <br/>
-                        Barra da Tijuca - RJ <br/>
-                        22775-045
+                    <p>RUA SÃO JOSÉ, Nº 40 <br/>
+                        2º ANDAR - SALA 24 <br/>
+                        CENTRO - RJ <br/>
+                        20010-020
                     </p>
                                 </span>
                             </td>

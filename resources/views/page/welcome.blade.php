@@ -99,8 +99,10 @@
                 <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box contact-area">
                     @lang('general.extra_sec5')
                     <p>@lang('general.extra_sec6')
-                        <span class="tel-home-contact">@lang('general.contact') <a href="tel:21-3231-8434">(21) 3231-8434</a>   |   <a
-                                    href="tel:21-2413-7968">(21) 2413-7968</a></span>
+                        <span class="tel-home-contact">@lang('general.contact')
+                            <a href="tel:21-3231-8434">(21) 3231-8434</a>   |   <a
+                                    href="tel:21-2143-7968">(21) 2143-7968</a>
+                        </span>
                         <span class="tel-home-contact">@lang('general.contact2') <a href="tel:21-98304-7716">(21) 98304-7716</a>   |   <a
                                     href="tel:21-97319-8409">(21) 97319-8409</a></span>
                     </p>
@@ -150,7 +152,8 @@
                                       placeholder="Sua Menssagem..."></textarea>
                         </div>
 
-                        <button type="submit" class="btn btn-primary" id="btn-contact-us">@lang('general.mensagem6')</button>
+                        <button type="submit" class="btn btn-primary"
+                                id="btn-contact-us">@lang('general.mensagem6')</button>
                     </form>
                 </div>
             </div>
