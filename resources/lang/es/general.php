@@ -92,7 +92,7 @@ return [
 
     'empresa_sec1' => '<h2>LA EMPRESA</h2>',
     'empresa_sec2' => '<h3>Hecha a su medida...</h3>',
-    'empresa_sec3' => 'A <strong>UNO Traduções</strong> fue creada a partir de la experiencia de más de una década
+    'empresa_sec3' => '<strong>UNO Traduções</strong> fue creada a partir de la experiencia de más de una década
                         adquirida por sus directores en el mercado de las traducciones. Fue con base de ésta experiencia
                         que construimos una empresa joven, dinámica y con una metodología de trabajo muy eficiente para 
                         facilitar sus negocios y satisfacer sus necesidades.',
@@ -125,7 +125,7 @@ return [
     'mis_sec2' => 'Prestar servicios de asesoría lingüística con excelencia a través de la gestión de calidad, 
      mejorando todos los procesos, procesamiento de pedidos, posibilitando una atención rápida y eficiente, garantizando
                 la excelencia en nuestras relaciones de negocios.',
-    'mis_sec3' => 'Ser reconocida como la referencia en el mercado de las traducciones e interpretaciones',
+    'mis_sec3' => '"Ser reconocida como la referencia en el mercado de las traducciones e interpretaciones"',
 
     //fim missao.blade
     //valores.blade
