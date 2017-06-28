@@ -10,7 +10,7 @@ return [
     
     'work_sec1' => '<h3>LO QUE HACEMOS</h3>',
 
-    'work_sec2' => '<p>UNO Traducciones es una empresa focalizada y especializada en brindar servicios de asesoría lingüística (traducciones).
+    'work_sec2' => '<p>UNO Traduções es una empresa focalizada y especializada en brindar servicios de asesoría lingüística.
  Conozca un poco más.</p>',
 
     'work_sec3' => '<h3>Diagramación o desktop publishing</h3>
@@ -31,7 +31,7 @@ return [
     'work_sec8' => '<h3>Transcripción de audio y video</h3>
                         <p>Traducciones integrales de contenidos auditivos y audiovisuales.</p>',
     
-    'extra_sec1' => '<h3>VENTAJAS DE UNO TRADUCCIONES</h3>',
+    'extra_sec1' => '<h3>VENTAJAS DE UNO TRADUÇÕES</h3>',
 
     'extra_sec2' => 'Contamos con una sociedad con el 24º Oficio de Notas para servicios notariales, inclusive apostillas 
     de documentos para ser utilizados en países que forman parte de la Convención de La Haya',
@@ -74,7 +74,7 @@ return [
     //trabalhe-conosco.blade
 
     'trab_sec1' => '<h2>TRABAJE CON NOSOTROS</h2>',
-    'trab_sec2' => '<span>SEA PARTE DEL EQUIPO DE <strong>UNO TRADUCCIONES</strong></span>',
+    'trab_sec2' => '<span>SEA PARTE DEL EQUIPO DE <strong>UNO Traduções</strong></span>',
     'trab_sec3' => '<h3>ÚNASE AL EQUIPO</h3>',
     'trab_sec4' => 'Envíe su Currículo a contato@unotraducoes.com.br',
     'trab_sec5' => 'Buscamos profesionales para traducción o revisión de textos y Profesionales de DTP.',
@@ -92,7 +92,7 @@ return [
 
     'empresa_sec1' => '<h2>LA EMPRESA</h2>',
     'empresa_sec2' => '<h3>Hecha a su medida...</h3>',
-    'empresa_sec3' => 'A <strong>UNO Traducciones</strong> fue creada a partir de la experiencia de más de una década
+    'empresa_sec3' => 'A <strong>UNO Traduções</strong> fue creada a partir de la experiencia de más de una década
                         adquirida por sus directores en el mercado de las traducciones. Fue con base de ésta experiencia
                         que construimos una empresa joven, dinámica y con una metodología de trabajo muy eficiente para 
                         facilitar sus negocios y satisfacer sus necesidades.',
@@ -125,7 +125,7 @@ return [
     'mis_sec2' => 'Prestar servicios de asesoría lingüística con excelencia a través de la gestión de calidad, 
      mejorando todos los procesos, procesamiento de pedidos, posibilitando una atención rápida y eficiente, garantizando
                 la excelencia en nuestras relaciones de negocios.',
-    'mis_sec3' => 'Ser reconocida como la referencia en el mercado de traducciones e interpretaciones.',
+    'mis_sec3' => 'Ser reconocida como la referencia en el mercado de las traducciones e interpretaciones',
 
     //fim missao.blade
     //valores.blade
@@ -157,7 +157,7 @@ return [
                         Somos especialistas en traducciones en áreas de Petróleo y Gas, Construcción Naval, Jurídico 
                         Legal, Marketing, Financiera, Ambiental, entre otras:
                     </p>',
-    'home_sec6' => '<p>Nuestro expertise se destaca en la traducción de Manuales, Reportes y Catálogos Técnicos, 
+    'home_sec6' => '<p>Nuestra experiencia se destaca en la traducción de Manuales, Reportes y Catálogos Técnicos,
                         Contratos, Sentencias, Balances Patrimoniales, EIA-RIMAS (Estudios de Impacto Ambiental), etc...
                     </p>',
 
@@ -189,7 +189,7 @@ return [
     'sim_sec1' => '<h3>INTERPRETACIÓN SIMULTÁNEA</h3>',
     'sim_sec2' => 'Realizada por intérpretes profesionales con gran fluidez en sus idiomas de trabajo y entrenados en 
                     las técnicas de traducción, interpretación y comunicación.',
-    'sim_sec3' => '<strong>UNO Traducciones</strong> dispone de profesionales y de todo el equipo necesario.',
+    'sim_sec3' => '<strong>UNO Traduções</strong> dispone de profesionales y de todo el equipo necesario.',
     'sim_sec4' => '<li>Cabina Acústica</li>
                     <li>Transmisores</li>
                     <li>Micrófonos</li>
