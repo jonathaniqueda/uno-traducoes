@@ -4,11 +4,8 @@
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 text-center">
                     <p class="fh5co-social-icons">
-                        <a href="#"><i class="icon-twitter2"></i></a>
-                        <a href="#"><i class="icon-facebook2"></i></a>
-                        <a href="#"><i class="icon-instagram"></i></a>
-                        <a href="#"><i class="icon-dribbble2"></i></a>
-                        <a href="#"><i class="icon-youtube"></i></a>
+                        <a href="https://www.facebook.com/unotraducoes/"><i class="icon-facebook2"></i></a>
+                        <a href="https://www.linkedin.com/company-beta/10931894/"><span class="icon-linkedin2" style="font-size:26px"></span></a>
                     </p>
                     <p>RUA SÃO JOSÉ, Nº 40 <br/>
                         2º ANDAR - SALA 24 <br/>
