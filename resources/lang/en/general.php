@@ -2,7 +2,7 @@
 
 return [
   //Welcome.blade  
-    'name' => 'Uno Traduções',
+    'name' => 'UNO Traduções',
     
     'intro_part1' => '<span>Over <strong>10 years of translation</strong> experience</span>',
     
@@ -10,7 +10,7 @@ return [
     
     'work_sec1' => '<h3>What we do</h3>',
 
-    'work_sec2' => '<p>Uno Traduções is a company specialized in providing linguistic advice services (translations). Know more.</p>',
+    'work_sec2' => '<p>UNO Traduções is a company specialized in providing linguistic advice services (translations). Know more.</p>',
 
     'work_sec3' => '<h3>Diagramming or desktop publishing</h3>
                       <p>Editing and processing of texts or images</p>',
@@ -38,7 +38,7 @@ return [
                      Ministry of Foreign Affairs.',
     'extra_sec5' => '<h3>contact us</h3>',
     'extra_sec6' => 'Call us on:',
-    'contact' => 'Phone:',
+    'contact' => 'PABX:',
     'contact2' => 'Mobile:',
     'select_serv1' => 'Select a service:',
     'select_serv2' => 'Diagramming or desktop publishing',
@@ -61,7 +61,7 @@ return [
     'trab_sec1' => '<h2>work with us</h2>',
     'trab_sec2' => '<span>Join OUR team <strong>UNO TRADUCCIONES</strong></span>',
     'trab_sec3' => '<h3>Join us</h3>',
-    'trab_sec4' => 'Send your CV to contato@unotraducoes.com.br',
+    'trab_sec4' => 'Send your CV to coutinho@gmail.com',
     'trab_sec5' => 'We are looking for professionals for translating or proofreading and desktop publishing.',
     'trab_sec6' => 'If you are specialized in technical language and have knowledge of the market’s main translation 
                     memory tools, come and work with us.',
@@ -77,7 +77,7 @@ return [
 
     'empresa_sec1' => '<h2>THE COMPANY</h2>',
     'empresa_sec2' => '<h3>Made especially for you...</h3>',
-    'empresa_sec3' => 'A <strong>Uno Traduções</strong> was created after over a decade of experience obtained by its 
+    'empresa_sec3' => 'A <strong>UNO Traduções</strong> was created after over a decade of experience obtained by its 
                        directors in the translation market. We set up a young, dynamic company with a very efficient 
                        methodology to facilitate your business and to meet your needs.',
     'empresa_sec4' => 'We guarantee total confidentiality, credibility and we are dedicated to providing the best 

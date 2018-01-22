@@ -2,7 +2,7 @@
 
 return [
   //Welcome.blade  
-    'name' => 'Uno Traduções',
+    'name' => 'UNO Traduções',
     
     'intro_part1' => '<span>Más de <strong>10 años de experiencia</strong> en traducciones</span>',
     
@@ -45,7 +45,7 @@ return [
 
     'extra_sec6' => 'Llámenos por teléfono ',
 
-    'contact' => 'Fijo:',
+    'contact' => 'PABX:',
 
     'contact2' => 'Móvil:',
 
@@ -76,7 +76,7 @@ return [
     'trab_sec1' => '<h2>TRABAJE CON NOSOTROS</h2>',
     'trab_sec2' => '<span>SEA PARTE DEL EQUIPO DE <strong>UNO Traduções</strong></span>',
     'trab_sec3' => '<h3>ÚNASE AL EQUIPO</h3>',
-    'trab_sec4' => 'Envíe su Currículo a contato@unotraducoes.com.br',
+    'trab_sec4' => 'Envíe su Currículo a coutinho@gmail.com',
     'trab_sec5' => 'Buscamos profesionales para traducción o revisión de textos y Profesionales de DTP.',
     'trab_sec6' => 'Si usted está especializado en lenguaje técnico y tiene conocimientos de las principales 
                     herramientas de memoria de traducción del mercado, venga a trabajar con nosotros.',

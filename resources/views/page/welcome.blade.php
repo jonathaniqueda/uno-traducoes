@@ -98,13 +98,12 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box contact-area">
                     @lang('general.extra_sec5')
-                    <p>@lang('general.extra_sec6')
+                    <p>
                         <span class="tel-home-contact">@lang('general.contact')
-                            <a href="tel:21-3231-8434">(21) 3231-8434</a>   |   <a
-                                    href="tel:21-2143-7968">(21) 2143-7968</a>
+                            <a href="tel:21-3554-4570">+55 (21) 3554-4570</a>
                         </span>
-                        <span class="tel-home-contact">@lang('general.contact2') <a href="tel:21-98304-7716">(21) 98304-7716</a>   |   <a
-                                    href="tel:21-97319-8409">(21) 97319-8409</a></span>
+                        <span class="tel-home-contact">@lang('general.contact2') <a href="tel:21-97622-1515">+55 (21) 97622-1515 </a>   |   <a
+                                    href="tel:21-97319-8409">+55 (21) 97319-8409</a></span>
                     </p>
                 </div>
             </div>
